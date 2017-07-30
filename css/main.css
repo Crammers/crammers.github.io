@@ -354,9 +354,10 @@ a:hover {
         font-size: 0.7rem;
     }
     .mobile {
+        display: block;
         width: 300px;
         height: auto;
-
+        margin: auto;
     }
     .contact ul li {
         margin: 0.5em;
