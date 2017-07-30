@@ -2,7 +2,7 @@ var main = function() {
 
 	$(".wgal").backstretch([
 		"img/sunny_day-01.svg",
-		"img/partly_cloudy_day_01.svg",
+		"img/partly_cloudy_day-01.svg",
 		"img/heavy_rain-01.svg",
 		"img/heavy_snow-01.svg",
 		"img/thunder-01.svg",
